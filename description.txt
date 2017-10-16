@@ -1,0 +1,1 @@
+Spacecraft adds an Explorer Gyroscope-controlled cruiser powered by Ion Thrusters/Drives.
